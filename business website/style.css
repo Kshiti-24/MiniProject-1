@@ -29,7 +29,7 @@
 
   .title {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(41, 37, 255);
+    color: rgb(25, 24, 85);
     font-size: 40px;
     padding:30px;
     padding-top: 50px;
@@ -87,13 +87,13 @@
 h1,h3,p{text-align: center;}
 /* Styling the heading of the body */
 h1{
-    background-color:rgb(161, 161, 255);
+    background-color:rgb(197, 68, 171);
     padding: 20px;
   margin-top:20px;
 }
 /* styling the small heading */
 h3{
-    background-color: goldenrod;
+    background-color: rgb(32, 218, 41);
     color: white;
     padding: 15px;
     margin-left: 30%;
