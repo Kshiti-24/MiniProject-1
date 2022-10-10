@@ -10,7 +10,7 @@ body{
 .container{
     background-color:lightgray;
     padding: 15px 20px 15px 20px;
-    border: 5px solid red;
+    border: 5px solid rgb(217, 10, 10);
     border-radius: 18px;
 }
 input[type="text"],
@@ -21,7 +21,7 @@ select,
 textarea{
     width: 100%;
     padding: 10px;
-    border: 2px solid yellowgreen;
+    border: 2px solid rgb(125, 160, 54);
     border-radius: 10px;
     margin: 10px;
     cursor: pointer;
