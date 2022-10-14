@@ -17,7 +17,7 @@
       /* COMMAND BELOW STICKS THE BAR AT TOP */
       position:fixed;
       padding-right:5px;
-      border-radius: 5px;
+      border-radius: 24px;
     display:flex;
     flex-direction:row;
     justify-content:center;
@@ -43,7 +43,7 @@
     padding: 20px;
     cursor:help;
   }
-  .img2{padding-left: 50px; border-radius: 50px;}
+  .img2{padding-left: 24px; border-radius: 24px;}
   span.img1{ padding: 50px; padding-left: 30px; }
 
   /* navigation bar decoration */
@@ -143,7 +143,7 @@ a.an{
   padding: 20px;  
   text-align: center;  
   margin: 5px 2px; 
-  border-radius: 15px; 
+  border-radius: 24px; 
   font-size: 30px;  
   width: 50px;  
 }  
